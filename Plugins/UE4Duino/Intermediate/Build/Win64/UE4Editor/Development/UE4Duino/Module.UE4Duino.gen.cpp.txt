@@ -1,0 +1,7 @@
+D:\UE\Unreal Projects\HomeBike\Plugins\UE4Duino\Intermediate\Build\Win64\UE4Editor\Development\UE4Duino\Definitions.UE4Duino.h
+D:/UE/Unreal Projects/HomeBike/Plugins/UE4Duino/Intermediate/Build/Win64/UE4Editor/Inc/UE4Duino/Serial.gen.cpp
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\UE\Unreal Projects\HomeBike\Plugins\UE4Duino\Source\UE4Duino/Public/Serial.h
+D:\UE\Unreal Projects\HomeBike\Plugins\UE4Duino\Intermediate\Build\Win64\UE4Editor\Inc\UE4Duino\Serial.generated.h
+D:/UE/Unreal Projects/HomeBike/Plugins/UE4Duino/Intermediate/Build/Win64/UE4Editor/Inc/UE4Duino/UE4Duino.init.gen.cpp
